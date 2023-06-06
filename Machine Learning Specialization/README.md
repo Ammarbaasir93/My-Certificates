@@ -2,9 +2,8 @@
 
 Hai semuanya, Terima Kasih telah mengunjungi Repository GitHub saya!
 Repositori ini berisi dokumentasi terkait dengan sertifikasi machine learning yang saya miliki. Sertifikasi ini menjadi bukti bahwa saya telah mempelajari suatu keterampilan atau pengetahuan di bidang **Machine Learning** serta memperlihatkan berbagai topik dan teknik yang telah saya pelajari.
-
-Sertifikasi ini menjadi bukti bahwa Anda telah mempelajari suatu keterampilan atau pengetahuan tertentu. Sertifikasi dapat memberikan validasi objektif tentang keahlian yang Anda miliki dan dapat digunakan untuk mendukung klaim Anda terkait dengan keterampilan atau pengetahuan yang dimiliki.
-
+<br>
+<br>
 
 ## **Detail Sertifikasi**
 Nama Sertifikasi : Machine Learning <br>
@@ -17,7 +16,7 @@ URL Kredensial : https://www.coursera.org/account/accomplishments/certificate/E3
 <br>
 ## **Topik Sertifikasi**
 Selama mengikuti kegiatan sertifikasi machine learning, saya telah memperoleh pengetahuan dan pengalaman praktis dalam berbagai bidang berikut : <br>
-1. Supervised Learning : Regression and Classification
+**1. Supervised Learning : Regression and Classification**
 
 ![Coursera E38URBUME3BN-1](https://user-images.githubusercontent.com/132868092/236732521-61bcf52b-dad9-4d7f-bad0-30da1756d45b.png)
 <br> 
@@ -28,7 +27,7 @@ Dalam bidang ilmu Machine Learning Supervised Learning beberapa topik yang telah
 - Classification
 <br>
 
-2. Advance Learning Algorithms
+**2. Advance Learning Algorithms**
 
 ![Coursera KYH2RA7P44LP-1](https://user-images.githubusercontent.com/132868092/236732560-0aa186f2-3cf6-49c7-8654-400f19dbe563.png)
 <br>
@@ -39,7 +38,7 @@ Dalam bidang ilmu Machine Learning Advance Learning Algorithms beberapa topik ya
 - Decision Trees
 <br>
 
-3. Unsupervised Learning, Recommenders, Reinforcement Learning
+**3. Unsupervised Learning, Recommenders, Reinforcement Learning**
 
 ![Coursera TCXPR3DQ4A7B-1](https://user-images.githubusercontent.com/132868092/236732585-b8ad9772-ff48-42a6-997d-9451fe3d980f.png)
 <br> 
