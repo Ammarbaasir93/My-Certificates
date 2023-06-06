@@ -10,6 +10,10 @@ Repository ini dibuat dengan tujuan untuk : <br>
 3. Menginspirasi dan memotivasi orang lain untuk terus belajar dan mengembangkan diri.
 <br>
 
+## **Isi Repository** <br>
+Repository ini berisi berbagai sertifikat yang mencakup bidang-bidang berikut : <br>
+
+Machine Learning Specialization : Sertifikat yang saya peroleh dari kursus yang telah saya ikuti, dalam kursus tersebut saya mempelajari berbagai topik dan teknik terkait Machine Learning yakni : 
 
 <br>
 
