@@ -9,7 +9,7 @@ Repositori ini berisi dokumentasi terkait dengan sertifikasi machine learning ya
 Nama Sertifikasi : Machine Learning <br>
 Penerbit Sertifikasi : Coursera, DeepLearning.AI, Stanford University <br>
 Tanggal Penerbitan : April 2023 <br>
-URL Kredensial : https://www.coursera.org/account/accomplishments/certificate/E38URBUME3BN <br>
+URL Kredensial : https://www.coursera.org/account/accomplishments/specialization/certificate/EZC8HUVWZ3RQ <br>
 <br>
 ![Coursera EZC8HUVWZ3RQ-1](https://user-images.githubusercontent.com/132868092/236731707-01f842dc-5cd4-462f-a00b-105e1e3f474b.png)
 <br>
