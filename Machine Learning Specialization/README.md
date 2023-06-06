@@ -27,11 +27,25 @@ Dalam bidang ilmu Machine Learning Supervised Learning beberapa topik yang telah
 - Regression with multiple input variabels
 - Classification
 <br>
-<br>
+
 2. Advance Learning Algorithms
 
 ![Coursera KYH2RA7P44LP-1](https://user-images.githubusercontent.com/132868092/236732560-0aa186f2-3cf6-49c7-8654-400f19dbe563.png)
+<br>
+Dalam bidang ilmu Machine Learning Advance Learning Algorithms beberapa topik yang telah dicakup selama perjalanan pembelajaran saya : <br>
+- Neural Networks
+- Neural Network Training
+- Advice For Appliying Machine Learning
+- Decision Trees
+<br>
 
 3. Unsupervised Learning, Recommenders, Reinforcement Learning
 
 ![Coursera TCXPR3DQ4A7B-1](https://user-images.githubusercontent.com/132868092/236732585-b8ad9772-ff48-42a6-997d-9451fe3d980f.png)
+<br> 
+Dalam bidang ilmu Machine Learning Unsupervised Learning, Recommenders, Reinforcement Learning beberapa topik yang telah dicakup selama perjalanan pembelajaran saya : <br>
+- Unsupervised Learning
+- Recommender System 
+- Reinforcement Learning
+
+<br>
