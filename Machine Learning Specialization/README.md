@@ -22,8 +22,12 @@ Selama mengikuti kegiatan sertifikasi machine learning, saya telah memperoleh pe
 ![Coursera E38URBUME3BN-1](https://user-images.githubusercontent.com/132868092/236732521-61bcf52b-dad9-4d7f-bad0-30da1756d45b.png)
 <br> 
 
-Dalam topik Machine Learning Supervised Learning beberapa topik yang telah dicakup selama perjalanan pembelajaran saya : <br>
-- 
+Dalam bidang ilmu Machine Learning Supervised Learning beberapa topik yang telah dicakup selama perjalanan pembelajaran saya : <br>
+- Introduction to Machine Learning
+- Regression with multiple input variabels
+- Classification
+<br>
+<br>
 2. Advance Learning Algorithms
 
 ![Coursera KYH2RA7P44LP-1](https://user-images.githubusercontent.com/132868092/236732560-0aa186f2-3cf6-49c7-8654-400f19dbe563.png)
